@@ -22,7 +22,16 @@ Project 4
 Performed passive intelligence gathering from public sources – Collected relevant target information from publicly available sources to identify assets and exposure points.
 Conducted active network scanning using Nmap – Identified live hosts, open ports, and exposed services through active network scanning.
 Enumerated running services and performed operating system detection – Analyzed system configurations and network exposure by identifying active services and operating systems.
-Documented reconnaissance findings professionally – Created clear reports with detailed analysis of discovered assets and potential security observations.
+Documented reconnaissance findings professionally – Created clear reports with detailed analysis of discovered assets and potential security observations
+
+Project 5
+astered various Nmap scan types, including SYN, TCP Connect, UDP, FIN, NULL, and XMAS scans to identify active hosts, services, and open ports.
+Utilized the Nmap Scripting Engine (NSE) to detect and enumerate services such as SMB, RDP, and HTTP for deeper system analysis.
+Analyzed and compared scan results to evaluate detection effectiveness, identify exposed services, and understand network behavior.
+Applied evasion techniques such as packet fragmentation, decoy scans, and timing adjustments to reduce scan detectability.
+Saved scan outputs in multiple formats, including Normal, XML, and Grepable, for documentation and reporting purposes.
+Created reusable scanning scripts to automate repetitive scanning tasks and improve operational efficiency.
+.
 
 
 
