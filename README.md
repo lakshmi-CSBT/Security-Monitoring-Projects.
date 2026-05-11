@@ -25,7 +25,7 @@ Enumerated running services and performed operating system detection – Analyze
 Documented reconnaissance findings professionally – Created clear reports with detailed analysis of discovered assets and potential security observations
 
 Project 5
-astered various Nmap scan types, including SYN, TCP Connect, UDP, FIN, NULL, and XMAS scans to identify active hosts, services, and open ports.
+Mastered various Nmap scan types, including SYN, TCP Connect, UDP, FIN, NULL, and XMAS scans to identify active hosts, services, and open ports.
 Utilized the Nmap Scripting Engine (NSE) to detect and enumerate services such as SMB, RDP, and HTTP for deeper system analysis.
 Analyzed and compared scan results to evaluate detection effectiveness, identify exposed services, and understand network behavior.
 Applied evasion techniques such as packet fragmentation, decoy scans, and timing adjustments to reduce scan detectability.
