@@ -32,6 +32,12 @@ Applied evasion techniques such as packet fragmentation, decoy scans, and timing
 Saved scan outputs in multiple formats, including Normal, XML, and Grepable, for documentation and reporting purposes.
 Created reusable scanning scripts to automate repetitive scanning tasks and improve operational efficiency.
 .
+Project 6
+Safely executed suspicious files within an isolated virtual lab environment to analyze malicious behavior while preventing impact on production systems.
+Performed static analysis to extract file properties, hashes, metadata, strings, and identify potential packers or obfuscation techniques.
+Conducted dynamic analysis by monitoring file system activity, registry modifications, process execution, and network communications during malware execution.
+Collected and analyzed Indicators of Compromise (IOCs) including file hashes, domains, IP addresses, registry keys, and suspicious file paths.
+Created a concise threat brief documenting malware behavior, attack indicators, observed persistence mechanisms, and actionable recommendations for detection and mitigation.
 
 
 
