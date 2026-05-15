@@ -39,6 +39,13 @@ Conducted dynamic analysis by monitoring file system activity, registry modifica
 Collected and analyzed Indicators of Compromise (IOCs) including file hashes, domains, IP addresses, registry keys, and suspicious file paths.
 Created a concise threat brief documenting malware behavior, attack indicators, observed persistence mechanisms, and actionable recommendations for detection and mitigation.
 
+Project 7
+Simulated real-world cyberattack techniques including SMB Enumeration, RDP Brute Force, and EternalBlue vulnerability assessment against a Windows VM in a controlled lab environment.
+Configured and utilized Suricata IDS to monitor network traffic, capture attack indicators, and analyze security alerts generated during simulated attacks.
+Performed attack-to-alert correlation by mapping attack actions with corresponding Suricata detections to understand security monitoring effectiveness.
+Collected and analyzed alert screenshots, logs, and network telemetry to validate detections and document investigation findings.
+Identified detection gaps and environmental limitations, providing recommendations to improve visibility, IDS tuning, and overall detection coverage.
+
 
 
 
