@@ -46,6 +46,13 @@ Performed attack-to-alert correlation by mapping attack actions with correspondi
 Collected and analyzed alert screenshots, logs, and network telemetry to validate detections and document investigation findings.
 Identified detection gaps and environmental limitations, providing recommendations to improve visibility, IDS tuning, and overall detection coverage.
 
+Project 8
+Installed and configured Sysmon with SwiftOnSecurity configuration to enhance Windows endpoint visibility and log collection.
+Analyzed Windows Security Event Logs (4624/4625) to investigate authentication activity and logon attempts.
+Executed and hunted an encoded PowerShell command in Sysmon logs to understand process monitoring and threat detection.
+Performed timeline reconstruction by correlating authentication and process events for incident investigation.
+Developed and executed a PowerShell Sysmon event collector script to automate log collection and reporting for SOC analysis.
+
 
 
 
